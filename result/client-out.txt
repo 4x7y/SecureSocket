@@ -1,0 +1,114 @@
+[SOCKET] Socket created
+[SOCKET] Connected
+Current local time and date:
+	Sun Nov  5 03:02:16 2017
+
+Plain Text:
+	127.0.0.1
+
+Hash Value:
+	82423d5ccf434cf05dd926d622fb19b7
+
+Generate Signature:
+	1c8f54100f1b353e
+	18b210f222743beb
+	03ddaa700ef66254
+	1df16c8df8b64271
+	25f69b2d18a86ae8
+	5a51ffd458ffabb0
+	4f82e2fe7f00
+package:
+	30323253756e204e
+	6f76202035203033
+	3a30323a31362032
+	3031370a3132372e
+	302e302e31303033
+	36d31c8f54100f1b
+	353e18b210f22274
+	3beb03ddaa700ef6
+	62541df16c8df8b6
+	427125f69b2d18a8
+	6ae85a51ffd458ff
+	abb04f82e2fe7f30
+	30333000
+
+[SOCKET] Socket Send 100 Bytes
+Plain Text Received:
+	True
+
+[SOCKET] Socket created
+[SOCKET] Connected
+Current local time and date:
+	Sun Nov  5 03:02:19 2017
+
+Plain Text:
+	127.0.0.1
+
+Hash Value:
+	4daa0d912c08f97504b9ed2c43661ff1
+
+Generate Signature:
+	ee07d215f1effef2
+	7a73824ab159a6c9
+	fb7557b340234643
+	9b31fd413195829f
+	e588e370c554eab2
+	9d79f539edeefcb0
+	0f65e1fe7f00
+package:
+	30323253756e204e
+	6f76202035203033
+	3a30323a31392032
+	3031370a3132372e
+	302e302e31303033
+	360fee07d215f1ef
+	fef27a73824ab159
+	a6c9fb7557b34023
+	46439b31fd413195
+	829fe588e370c554
+	eab29d79f539edee
+	fcb00f65e1fe7f30
+	30333000
+
+[SOCKET] Socket Send 100 Bytes
+Plain Text Received:
+	True
+
+
+[SOCKET] Socket created
+[SOCKET] Connected
+Current local time and date:
+	Sun Nov  5 03:02:21 2017
+
+Plain Text:
+	127.0.0.1
+
+Hash Value:
+	29e47e1b389ce982b7c2282757690295
+
+Generate Signature:
+	fac12df8ab7484c3
+	8ede59dcfe1db9f4
+	6612f68776adcbed
+	2ededad7278286d1
+	5d29a8bd98bbc1dc
+	fc9020e2c7b33fb0
+	2f83e9fe7f00
+package:
+	30323253756e204e
+	6f76202035203033
+	3a30323a32312032
+	3031370a3132372e
+	302e302e31303033
+	3610fac12df8ab74
+	84c38ede59dcfe1d
+	b9f46612f68776ad
+	cbed2ededad72782
+	86d15d29a8bd98bb
+	c1dcfc9020e2c7b3
+	3fb02f83e9fe7f30
+	30333000
+
+[SOCKET] Socket Send 100 Bytes
+Plain Text Received:
+	True

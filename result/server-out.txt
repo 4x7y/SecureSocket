@@ -1,0 +1,88 @@
+key:
+	62668e4cfe963684ed1a9f9c4fc3d5128d1495c2fc4dea3cbddd0c6fb3399a04
+iv:
+	2b1e923005fdc2526d5cd2f5599670e9
+
+[SOCKET] Socket created
+[SOCKET] Bind Done
+[SOCKET] Waiting for incoming connections...
+[SOCKET] Connection accepted
+[PTHREAD] Handler assigned
+=====================================
+Plaintext Length: 34
+Plaintext:
+	Sun Nov  5 03:02:16 2017
+127.0.0.1
+
+Signature Length: 54
+Ciphertext Signature:
+	1c8f54100f1b353e
+	18b210f222743beb
+	03ddaa700ef66254
+	1df16c8df8b64271
+	25f69b2d18a86ae8
+	5a51ffd458ffabb0
+	4f82e2fe7f00
+Hash Value:
+	82423d5ccf434cf05dd926d622fb19b7
+
+Hash Value From Plain Text:
+	82423d5ccf434cf05dd926d622fb19b7
+
+Hash Value Match
+
+[SOCKET] Client disconnected
+=====================================
+[SOCKET] Connection accepted
+[PTHREAD] Handler assigned
+=====================================
+Plaintext Length: 34
+Plaintext:
+	Sun Nov  5 03:02:19 2017
+127.0.0.1
+
+Signature Length: 54
+Ciphertext Signature:
+	ee07d215f1effef2
+	7a73824ab159a6c9
+	fb7557b340234643
+	9b31fd413195829f
+	e588e370c554eab2
+	9d79f539edeefcb0
+	0f65e1fe7f00
+Hash Value:
+	4daa0d912c08f97504b9ed2c43661ff1
+
+Hash Value From Plain Text:
+	4daa0d912c08f97504b9ed2c43661ff1
+
+Hash Value Match
+
+[SOCKET] Client disconnected
+=====================================
+[SOCKET] Connection accepted
+[PTHREAD] Handler assigned
+=====================================
+Plaintext Length: 34
+Plaintext:
+	Sun Nov  5 03:02:21 2017
+127.0.0.1
+
+Signature Length: 54
+Ciphertext Signature:
+	fac12df8ab7484c3
+	8ede59dcfe1db9f4
+	6612f68776adcbed
+	2ededad7278286d1
+	5d29a8bd98bbc1dc
+	fc9020e2c7b33fb0
+	2f83e9fe7f00
+Hash Value:
+	29e47e1b389ce982b7c2282757690295
+
+Hash Value From Plain Text:
+	29e47e1b389ce982b7c2282757690295
+
+Hash Value Match
+
+[SOCKET] Client disconnected
